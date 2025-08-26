@@ -1,0 +1,16 @@
+{
+  "Versova": {"lat": 19.1509, "lon": 72.8236, "lines": ["Line 1 (Blue)"]},
+  "Azad Nagar": {"lat": 19.1410, "lon": 72.8291, "lines": ["Line 1 (Blue)"]},
+  "D N Nagar": {"lat": 19.1191, "lon": 72.8466, "lines": ["Line 1 (Blue)", "Line 2A (Yellow)"]},
+  "Andheri": {"lat": 19.1190, "lon": 72.8469, "lines": ["Line 1 (Blue)"]},
+  "Chakala (Airport Road)": {"lat": 19.1135, "lon": 72.8693, "lines": ["Line 1 (Blue)"]},
+  "Marol Naka": {"lat": 19.1167, "lon": 72.8736, "lines": ["Line 1 (Blue)"]},
+  "Saki Naka": {"lat": 19.1000, "lon": 72.8684, "lines": ["Line 1 (Blue)"]},
+  "Asalpha": {"lat": 19.0920, "lon": 72.8740, "lines": ["Line 1 (Blue)"]},
+  "Jagruti Nagar": {"lat": 19.0822, "lon": 72.8825, "lines": ["Line 1 (Blue)"]},
+  "Ghatkopar": {"lat": 19.0728, "lon": 72.8957, "lines": ["Line 1 (Blue)"]},
+  "Dahisar East": {"lat": 19.2571, "lon": 72.8563, "lines": ["Line 2A (Yellow)"]},
+  "Borivali": {"lat": 19.2317, "lon": 72.8561, "lines": ["Line 2A (Yellow)"]},
+  "Malad": {"lat": 19.1602, "lon": 72.8464, "lines": ["Line 2A (Yellow)"]},
+  "Andheri West": {"lat": 19.1191, "lon": 72.8365, "lines": ["Line 2A (Yellow)"]}
+}
