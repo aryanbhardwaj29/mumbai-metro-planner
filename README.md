@@ -3,7 +3,7 @@
 This project is a simple yet practical **route planner for Mumbai Metro**.  
 It helps commuters quickly find the **nearest station**, get the **shortest route** to their destination, and know the **estimated fare** before starting their journey.  
 
-# What it does
+#🤖 What it does
 - Finds the nearest metro station from your current location  
 - Suggests the shortest route between two stations  
 - Gives step-by-step travel instructions (which line to take, where to switch, etc.)  
