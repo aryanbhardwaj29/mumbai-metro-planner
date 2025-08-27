@@ -25,15 +25,19 @@ It helps commuters quickly find the **nearest station**, get the **shortest rout
 mumbai-metro-planner/
 │── data/
 │   └── metro_stations.json     # Station names, lines, coordinates, fares
-│
-│── notebooks/
-│   └── metro_planner.ipynb     # Jupyter Notebook for exploration & demo
-│
+
+
+── notebooks/
+    └── metro_planner.ipynb     # Jupyter Notebook for exploration
 │── src/
-│   ├── route_planner.py        # Core logic: shortest path, fare calculation
+     ├── route_planner.py        # Core logic: shortest
+path, fare calculation
+
 │   ├── nearest_station.py      # Finds nearest station from user location
-│   └── utils.py                # Helper functions
-│
+    └── utils.py                # Helper functions
+
+
 │── main.py                     # Script to run the project
+
 │── requirements.txt            # Python dependencies
 │── README.md                   # Project documentation
