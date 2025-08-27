@@ -17,3 +17,24 @@ It helps commuters quickly find the **nearest station**, get the **shortest rout
 - **Geopy** → to work with user location  
 - **NetworkX** → to calculate shortest path between stations  
 - **JSON** → to store metro station data  
+
+# 📂 Project Layout
+
+data/ → contains metro_stations.json, which stores all metro station details like names, lines, coordinates, and fares.
+
+notebooks/ → includes metro_planner.ipynb for running and testing the project inside Jupyter Notebook.
+
+src/ → holds the main Python logic:
+
+route_planner.py for shortest route and fare calculation,
+
+nearest_station.py for finding the nearest metro station,
+
+utils.py for helper functions like loading data and formatting results.
+
+
+main.py → entry point of the project, which integrates all functions and gives outputs.
+
+requirements.txt → lists all Python dependencies required to run the project.
+
+README.md → documentation of the project.
